@@ -1,2 +1,7 @@
 /* Imports */
 @import "./nav.css";
+
+/* Main Styles */
+body {
+    background-color: lightblue
+}
