@@ -1,0 +1,14 @@
+.terminal {
+    width: 90vw;
+    height: 40vh;
+    padding: 1px 9px;
+
+    font-family: monospace;
+    background-color: black;
+    color: green;
+    text-align: justify;
+}
+
+.stream > span {
+    padding: 0.2em 2em;
+}
