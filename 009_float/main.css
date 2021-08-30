@@ -1,0 +1,17 @@
+.box {
+    margin: 10px;
+}
+
+.box-1 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    float:left;
+}
+
+.box-2 {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    float: right;
+}
