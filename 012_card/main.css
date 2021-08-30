@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
+
+.card {
+    border-width: 0.1rem;
+    border-style: solid;
+    border-color: #cccccc;
+    border-radius: 0.4rem;
+
+    margin: 0.8rem 0.4rem;
+    padding: 0.4rem;
+}
+
+.card_content {
+    padding: 0.8rem;
+}
+
+.card_links > a {
+    margin-right: 1.1em;
+}
