@@ -30,6 +30,7 @@ p {
 
 .card_links > a {
     margin-right: 1.1em;
+    opacity: 0.8;
 }
 
 .underline {
