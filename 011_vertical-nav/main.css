@@ -1,0 +1,13 @@
+ul {
+    list-style-type: none;
+    background-color: cornflowerblue;
+    overflow: hidden;
+    max-width: 10em;
+}
+
+li > a {
+    display: block;
+    color: white;
+    padding: 0.8em 1.7em;
+    text-decoration: none;
+}
