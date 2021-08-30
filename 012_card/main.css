@@ -25,3 +25,7 @@ p {
 .card_links > a {
     margin-right: 1.1em;
 }
+
+.underline {
+    text-decoration: underline;
+}
