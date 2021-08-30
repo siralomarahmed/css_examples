@@ -1,3 +1,7 @@
+/* Imports */
+@import "./clearfix.css";
+
+/* Styles */
 .box {
     margin: 10px;
 }
