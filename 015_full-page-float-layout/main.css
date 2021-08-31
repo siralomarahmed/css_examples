@@ -1,0 +1,33 @@
+body {
+    margin: 0 auto;
+    width: 80vw;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header, footer {
+    padding: 0;
+    text-align: center;
+}
+
+article {
+    padding-left: 2rem;
+    width: 43rem;
+    float: right;
+    border-left: 0.1rem solid black;
+}
+
+aside {
+    float: left;
+}
+
+hr {
+    clear: both;
+}
+
+.box {
+    margin-left: 2rem;
+    width: 5rem;
+    height: 5rem;
+
+    background-color: grey;
+}
