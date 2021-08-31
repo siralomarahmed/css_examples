@@ -1,0 +1,31 @@
+h1 {
+    padding: 0.5rem;
+}
+
+header, footer {
+    background-color: #09A7A1;
+    color: white;
+}
+
+main {
+    margin: 2rem;
+}
+
+article > header {
+    background-color: #FFFFFF;
+    color: #09A7A1;
+}
+
+article > p {
+    line-height: 1.5;
+    text-align: justify;
+}
+
+article > button {
+    background-color: #FF790E;
+}
+
+footer > p {
+    padding: 0.5rem;
+    text-align: center;
+}
