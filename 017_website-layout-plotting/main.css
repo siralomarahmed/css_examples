@@ -1,0 +1,44 @@
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+body {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    margin: 0;
+    font-family: Helvetica, sans-serif;
+}
+
+header, nav, section, footer {
+    border: 1px solid white;
+    margin-bottom: 10px;
+    border-radius: 3px;
+}
+header, footer {
+    padding: 20px 0;
+}
+nav, section {
+    padding: 200px 0;
+}
+
+.container {
+    width: 960px;
+    margin: 0 auto;
+}
+
+nav, section, footer {
+    float: left;
+}
+
+nav {
+    width: 200px;
+    margin-right: 10px;
+}
+
+section {
+    width: 750px;
+}
+
+footer {
+    width: 960px;
+}
