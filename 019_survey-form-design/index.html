@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <!-- Meta -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Style -->
+    <link rel="stylesheet" href="./main.css">
+
+    <!-- Title -->
+    <title>Survey</title>
+</head>
+
+<body>
+    <header>
+        <h1>Take a Survey!</h1>
+    </header>
+
+    <main>
+        <p class="intro">
+            Submit your servey today to get a gift!
+        </p>
+
+        <form action="./congrats.html">
+
+            <label for="name">Name:
+                <input type="text" id="name" name="name">
+            </label>
+            <label for="email">Email:
+                <input type="email" id="email" name="email">
+            </label>
+            <label for="occupation">Occupation:
+                <input type="text" id="occupation" name="occupation">
+            </label>
+
+            <p>Do you like your job?</p>
+            <label for="yes">Yes
+                <input type="radio" id="yes" name="answer" value="yes">
+            </label>
+            <label for="no">No
+                <input type="radio" id="no" name="answer" value="no">
+            </label>
+
+            <button type="submit">Submit</button>
+        </form>
+    </main>
+
+    <footer>
+        <p>Copyright &copy; Why would I copyright this?</p>
+    </footer>
+</body>
+
+</html>
