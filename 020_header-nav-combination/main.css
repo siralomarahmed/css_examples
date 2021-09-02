@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: hsl(10, 90%, 35%);
+    color: hsl(0, 0%, 100%);
+}
+h1 {
+    padding: 10px 20px;
+}
+
+nav {
+    background-color: hsl(10, 80%, 25%);
+}
+nav ul {
+    padding: 5px 30px;
+}
+nav li {
+    display: inline;
+    margin-right: 25px;
+}
+a {
+    text-decoration: none;
+    color: inherit;
+}
